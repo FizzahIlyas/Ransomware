@@ -1,0 +1,7 @@
+Encryption is a process that scrambles readable text so it can only be read by the 
+person who has the secret code,  or decryption key. It helps provide data security 
+for sensitive information. Vast amounts of personal information are managed online 
+and stored in the cloud or on servers with an ongoing connection to the web. It’s 
+nearly impossible to do business of any kind without your personal data ending up 
+in an organization’s networked computer system, which is why it’s important to know 
+how to help keep that data  private. 

@@ -1,0 +1,6 @@
+Decryption is the transformation of data that has been encrypted and rendered 
+unreadable back to its unencrypted form. The garbled data is extracted by the system 
+and converted and transformed into texts and images that are easily understandable 
+by the reader as well as the system. Simply put, decryption is essentially the 
+reverse of encryption, which requires coding data to make it unreadable, but the 
+matching decryption keys can make it readable.
